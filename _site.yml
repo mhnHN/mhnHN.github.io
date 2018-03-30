@@ -1,7 +1,7 @@
-name: "Klaus W. Wiese"
+name: "Museo de Historia Natural UNAH"
 output_dir: "."
 navbar:
-  title: "Klaus W. Wiese"
+  title: "Museo de Historia Natural"
   left:
     - text: "SIG"
       href: SIG.html
@@ -15,7 +15,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: contacto.html
     - icon: fa-github fa-lg
-      href: http://github.com/klauswiese
+      href: http://github.com/mhnHN
 output:
   html_document:
     theme: paper

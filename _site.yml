@@ -1,0 +1,22 @@
+name: "Klaus W. Wiese"
+output_dir: "."
+navbar:
+  title: "Klaus W. Wiese"
+  left:
+    - text: "SIG"
+      href: SIG.html
+    - text: "Teledeteccion"
+      href: Teledeteccion.html
+    - text: "Ambiente"
+      href: Ambiente.html
+    - text: "Enseñanza"
+      href: Enseñanza.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contacto.html
+    - icon: fa-github fa-lg
+      href: http://github.com/klauswiese
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
